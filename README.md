@@ -1,2 +1,2 @@
-# vico-create
+# vico-landingpage
 Created with CodeSandbox
